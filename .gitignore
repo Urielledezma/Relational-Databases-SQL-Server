@@ -1,0 +1,36 @@
+# SQL Server database files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+*.dbmdl
+*.jfm
+
+# SQL Server / LocalDB folders
+App_Data/
+Data/
+
+# IDE / editor folders
+.vs/
+.vscode/
+
+# User-specific / temporary files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.log
+*.tmp
+*.temp
+*.cache
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Optional exports
+*.csv
+*.xlsx
+*.xls
